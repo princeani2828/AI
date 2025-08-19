@@ -1,0 +1,25 @@
+# UPS AI Fault Detection System - Requirements
+
+# Core machine learning libraries
+tensorflow>=2.12.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data visualization and analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# For TensorFlow Lite runtime (Raspberry Pi)
+# tflite-runtime>=2.12.0  # Uncomment for Raspberry Pi deployment
+
+# Development and testing
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+
+# Optional: For advanced model optimization
+# tensorflow-model-optimization>=0.7.0
+
+# Optional: For hardware acceleration on Raspberry Pi
+# tensorflow-lite-support>=0.4.0

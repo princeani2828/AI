@@ -1,0 +1,9 @@
+{
+  "0": "battery_low",
+  "1": "charging_fault",
+  "2": "mains_fail",
+  "3": "normal",
+  "4": "overload",
+  "5": "short_circuit",
+  "6": "transformer_overheat"
+}
